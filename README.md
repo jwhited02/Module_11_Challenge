@@ -1,4 +1,4 @@
-For this challenge, I was tasked with scraping data from an webpage, and then using pandas to analyze the data pulled. 
+For this challenge, I was tasked with scraping data from a webpage using BeautifulSoup, and then analyzing the data that I pulled using matplotlib and pandas. 
 
 This assignment consisted of two technical products:
 
